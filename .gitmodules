@@ -1,3 +1,6 @@
 [submodule "code/IsDoorOpen.StructureSensorBot"]
 	path = code/IsDoorOpen.StructureSensorBot
 	url = https://github.com/SlightlyCyborg/IsDoorOpen.StructureSensorBot.git
+[submodule "code/IsThingPresent.StructureSensorBot"]
+	path = code/IsThingPresent.StructureSensorBot
+	url = https://github.com/SlightlyCyborg/IsThingPresent.StructureSensorBot.git
