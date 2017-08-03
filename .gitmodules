@@ -4,3 +4,6 @@
 [submodule "code/IsThingPresent.StructureSensorBot"]
 	path = code/IsThingPresent.StructureSensorBot
 	url = https://github.com/SlightlyCyborg/IsThingPresent.StructureSensorBot.git
+[submodule "code/Utils.StructureSensorBot"]
+	path = code/Utils.StructureSensorBot
+	url = https://github.com/SlightlyCyborg/Utils.StructureSensorBot
