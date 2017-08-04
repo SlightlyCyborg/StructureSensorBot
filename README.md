@@ -35,6 +35,12 @@ If you purchased a bot, the serial firmware has already been installed on the ar
 If you are building the bot yourself, please note that the firmware depends on a **modified** version of the Serial library. This library must replace the library that is already installed with the arduino package. This library can be found in `code/lib`. This code is required because the Savox servos do not use the standard servo pwm frequencies.
 
 
+The commands are sent as 2 bytes.
+
+The first byte is the motor to move (0 for y axis, 1 for z axis).
+
+The second byte is the position that motor should move to.
+
 ### Utils.StructureSensorBot
 
 If you are on x64 Linux, then the binary is already precompiled.
