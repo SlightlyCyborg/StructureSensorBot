@@ -106,3 +106,12 @@ Please note that if you are writing a python script to write to the mover_pipe t
 
 You could just call `printf` from a shell interface. Printf automatically flushes the output.
 
+# Supporters
+
+A big thanks to the following people for supporting this project:
+
+- Mark Piszczor 
+- Nicolas Tisserand 
+- Jeff Powers
+- Phil Nelson 
+- CHIAHUI HSIEH 
