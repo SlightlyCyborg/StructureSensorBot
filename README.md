@@ -114,4 +114,4 @@ A big thanks to the following people for supporting this project:
 - Nicolas Tisserand 
 - Jeff Powers
 - Phil Nelson 
-- CHIAHUI HSIEH 
+- Chiahui Hsieh 
