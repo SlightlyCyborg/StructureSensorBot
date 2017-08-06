@@ -34,6 +34,14 @@ If you purchased a bot, the serial firmware has already been installed on the ar
 
 If you are building the bot yourself, please note that the firmware depends on a **modified** version of the Servo library. This library must replace the library that is already installed with the arduino package. This library can be found in `code/lib`. This code is required because the Savox servos do not use the standard servo pwm frequencies.
 
+There are two lines that need to be edited in Servo.h. The MIN_PULSE_WIDTH should be changed to 699 and MAX_PULSE WIDTH should be changed to 2250
+
+```
+#define MIN_PULSE_WIDTH       699     // the shortest pulse sent to a servo  
+#define MAX_PULSE_WIDTH      2250     // the longest pulse sent to a servo 
+
+```
+
 On linux replace `/usr/share/arduino/libraries/Servo/Servo.h`
 
 On windows replace `C://Arduino/libraries/Servo/Servo.h`
