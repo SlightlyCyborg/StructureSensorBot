@@ -1,3 +1,7 @@
+# Quickstart
+
+Download & use [this](https://github.com/SlightlyCyborg/simple_py_server) simple python server
+
 # Structure Sensor motor mount.
 
 The structure sensor motor mount is my attempt at improving an already interesting piece of technology. I wanted to integrate the structure sensor into a larger organism so that it may be used for purposes such as routine data collection or automated scanning.
